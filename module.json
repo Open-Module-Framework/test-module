@@ -1,0 +1,64 @@
+{
+  "format_version": "0.1",
+  "title": "Test Module: How are farmers in India’s wheat belt adapting to a changing climate?",
+  "creators": [
+    { "name": "Test Author" }
+  ],
+  "license": "CC-BY-4.0",
+  "module_alias": "publisher/test-module",
+  "version_label": "0.1.0",
+  "release_channel": "draft",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "canonical_id": "omf:sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "derived_from": [],
+  "supersedes": [],
+  "related_modules": [],
+  "external_resources": [
+    {
+      "url": "https://doi.org/10.2307/1942251",
+      "type": "document",
+      "title": "Odum 1971 reference"
+    }
+  ],
+  "cover": {
+    "path": "assets/cover_photo.jpg",
+    "media_type": "image/jpeg",
+    "alt": "A barren field with a hand extended, gesturing towards the viewer."
+  },
+  "discovery": {
+    "abstract": "This is a test module. Portions of the text are borrowed from a Michigan Sustainability case available at https://www.learngala.com/cases/growing-into-an-uncertain-future.  An introduction to climate change and agriculture in India's wheat belt, covering historical shifts in the Indo-Gangetic Plains, impacts on farmers, and adaptation choices.",
+    "keywords": [
+      "climate change",
+      "agriculture",
+      "India",
+      "wheat",
+      "Indo-Gangetic Plains",
+      "adaptation",
+      "colonial history"
+    ],
+    "audience": [
+      {
+        "level": "undergraduate",
+        "description": "Introductory environmental or agricultural studies"
+      },
+      {
+        "level": "general_public",
+        "description": "Accessible to readers interested in climate and agriculture"
+      }
+    ]
+  },
+  "learning_objectives": [
+    {
+      "id": "lo-1",
+      "text": "Describe how climate change is affecting wheat production and farmers in India."
+    },
+    {
+      "id": "lo-2",
+      "text": "Explain historical changes in land use and agriculture in the Indo-Gangetic Plains."
+    },
+    {
+      "id": "lo-3",
+      "text": "Identify adaptation strategies and trade-offs that farmers may consider in response to climate stress."
+    }
+  ]
+}
